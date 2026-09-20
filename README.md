@@ -8,4 +8,6 @@ Because we are running LunarLander-v2, we need to be careful about the versions 
 > $ numpy==1.24.4
 > $ matplotlib==3.1.2
 > $ pip install Pillow==9.5.0
+> $ pip install opencv-python
+> $ pip install imageio[ffmpeg]
 

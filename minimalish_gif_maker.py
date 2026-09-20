@@ -22,6 +22,7 @@ def compile_pngs_to_gif(frames_dir, output_gif_path, fps=10):
 
     print(f"Done! Saved GIF to: {output_gif_path}")
     
+
 if __name__ == "__main__":
     run_folder="Run17-MaxSteps400"
     FRAMES_DIRECTORY = f"lunar_lander_examples/{run_folder}"
